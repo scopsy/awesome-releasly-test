@@ -239,3 +239,4 @@ Content published on the Web.
 * [How To Use WebViews in a React Native App](https://blog.jscrambler.com/how-to-use-webviews-in-a-react-native-app/)
 * [A comprehensive guide on building offline React Native apps with AsyncStorage](https://heartbeat.fritz.ai/building-offline-react-native-apps-with-asyncstorage-dcb4b0657f93)
 * [Dima Test](https://releasly.co/1)
+* [Dima Test 2](https://releasly.co/2)
